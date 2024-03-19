@@ -1764,7 +1764,7 @@ select option div {
 
 .field__label,
 .customer .field label {
-  font-size: 2rem;
+  font-size: 1.75rem;
   margin: 20px 0px 10px;
   font-weight: bold;
   pointer-events: none;
@@ -1803,7 +1803,7 @@ select option div {
 
 .field__input::placeholder,
 .customer .field input::placeholder {
-  opacity: 0;
+  opacity: 1;
 }
 
 .field__button {

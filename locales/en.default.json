@@ -246,8 +246,10 @@
     "contact": {
       "form": {
         "title": "Contact form",
-        "name": "Name",
-        "email": "Email",
+        "name": "Your Name",
+        "email": "Your Email",
+        "store_url": "Your Shopify Store URL",
+        "description": "Description/Message",
         "phone": "Phone number",
         "comment": "Comment",
         "send": "Send",

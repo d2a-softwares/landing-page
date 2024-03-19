@@ -6,6 +6,10 @@
   font-weight: 600;
 }
 
+.field__label .required {
+  color: red;
+}
+
 .contact__text {
   font-weight: 500;
   margin-bottom: 2rem;
