@@ -2,6 +2,10 @@
   max-width: 100%;
 }
 
+.title {
+  font-weight: 600;
+}
+
 .contact__text {
   font-weight: 500;
   margin-bottom: 2rem;
