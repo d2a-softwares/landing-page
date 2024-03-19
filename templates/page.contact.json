@@ -1,0 +1,18 @@
+{
+  "sections": {
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "UniqueSide - Tell us about You",
+        "heading_size": "h1",
+        "subtitle": "*Only fill this form if you have requirements for development with UniqueSide (This is not a job contact form. We are not hiring)",
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "form"
+  ]
+}
